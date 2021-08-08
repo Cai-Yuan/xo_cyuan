@@ -10,6 +10,9 @@ class node(object):
     def add_sun(self,asunnode):
         self.sun.append(asunnode)
 
+class tree(object):
+    def __init__(self):
+
 
 
 
