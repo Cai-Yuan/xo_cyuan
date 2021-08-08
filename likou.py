@@ -12,6 +12,7 @@ class node(object):
 
 class tree(object):
     def __init__(self):
+        'how to build a tree'
 
 
 
